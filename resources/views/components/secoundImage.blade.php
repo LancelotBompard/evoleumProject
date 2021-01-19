@@ -1,0 +1,1 @@
+<img src="./../assets/images/secoundImgFirstPage.png" alt="" class="absolute right-0 top-0" >

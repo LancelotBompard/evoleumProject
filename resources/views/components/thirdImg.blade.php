@@ -1,0 +1,1 @@
+<img src="./../assets/images/thirdImg.png" alt="" class="absolute left-80   bottom-0" >
