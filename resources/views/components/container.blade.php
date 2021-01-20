@@ -42,6 +42,14 @@
             </div>
 
         </div>
+
+        <div class="-mt-96">
+            @include('components.thirdSection')
+        </div>
+
+        <div class="-mt-96">
+            @include('components.fourthSection')
+        </div>
         
     </div>
 </div>
