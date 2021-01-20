@@ -1,1 +1,1 @@
-<img src="./../assets/images/firstPageImg.png" alt="" class="z-0 absolute top-0 pl-44">
+<img src="./../assets/images/firstPageImg.png" alt="" class="w-auto absolute top-0 pl-44">

@@ -1,1 +1,1 @@
-<img src="./../assets/images/thirdImg.png" alt="" class="absolute left-80   bottom-0" >
+<img src="./../assets/images/thirdImg.png" alt="" class="w-auto absolute top-96 pl-80 " >
