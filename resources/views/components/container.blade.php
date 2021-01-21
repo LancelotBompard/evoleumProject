@@ -50,6 +50,17 @@
         <div class="-mt-96">
             @include('components.fourthSection')
         </div>
+
+        <div class="pt-44 pl-20">
+            @include('components.fifthSection')
+        </div>
+
+        <div>
+            @include('components.sixthSection')
+        </div>
+        <div>
+            @include('components.footer')
+        </div>
         
     </div>
 </div>

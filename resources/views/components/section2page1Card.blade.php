@@ -1,12 +1,12 @@
-<div class="flex flex-wrap" style="background: #FCF0E8;width:33rem;height:41rem">
-    <h2 class="w-auto text-gray-500 pl-20 pt-16">UN SAVOIR-FAIRE NUTRICOSMÉTIQUE UNIQUE </h2>
+<div class="flex flex-wrap bg-orange-50" style="background: #FCF0E8;width:33rem;height:41rem">
+    <h2 class="w-auto text-gray-400 pl-20 pt-16">UN SAVOIR-FAIRE NUTRICOSMÉTIQUE UNIQUE </h2>
     <div class="dot absolute top-24 left-56 mt-1" style="border-radius:200%;width:7px;height:7px;background:red;"></div>
     <div class="dot absolute top-24 left-64 mt-1" style="border-radius:200%;width:7px;height:7px;background:orange;"></div>
     <div class="dot absolute top-24 left-72 mt-1" style="border-radius:200%;width:7px;height:7px;background:green;"></div>
-    <h1 class="w-auto text-gray-500 pl-44 pt-3 content-center text-4xl absolute top-24 ">
+    <h1 class="w-auto text-gray-400 pl-44 pt-3 content-center text-4xl absolute top-24 ">
         Les soins
     </h1>
-    <h1 class="w-full text-gray-500 pl-28 text-4xl absolutetop-32">
+    <h1 class="w-full text-gray-400 pl-28 text-4xl absolutetop-32">
         cosmétique-à-boire
     </h1>
     <p class="w-auto text-gray-400 leading-5 content-center pl-20 pr-20">
